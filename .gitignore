@@ -2,4 +2,3 @@ data
 docker
 mongo-db
 DynamoDBLocal_lib
-dynamodb
